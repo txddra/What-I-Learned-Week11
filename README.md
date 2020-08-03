@@ -1,5 +1,6 @@
 # What-I-Learned-Week11
 
+![https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmyfoodfails.files.wordpress.com%2F2014%2F04%2Fwhat-did-i-learn.jpg&f=1&nofb=1]()
 ### Overview
    
 We covered quite a bit in this week, a lot,
@@ -18,8 +19,6 @@ It has different values depending on where it is used:
   
 - **In a function**, this refers to the global object.
 
-    In a function, in strict mode, this is undefined.
-    In an event, this refers to the element that received the event.
 
 
 ## [__dirname](https://www.geeksforgeeks.org/difference-between-__dirname-and-in-node-js/) *
