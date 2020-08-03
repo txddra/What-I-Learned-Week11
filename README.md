@@ -1,6 +1,6 @@
 # What-I-Learned-Week11
 
-![https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmyfoodfails.files.wordpress.com%2F2014%2F04%2Fwhat-did-i-learn.jpg&f=1&nofb=1]()
+
 ### Overview
    
 We covered quite a bit in this week, a lot,
