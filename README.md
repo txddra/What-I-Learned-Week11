@@ -22,6 +22,15 @@ It has different values depending on where it is used:
     In an event, this refers to the element that received the event.
 
 
-## [__Dirname](https://www.geeksforgeeks.org/difference-between-__dirname-and-in-node-js/) *
+## [__dirname](https://www.geeksforgeeks.org/difference-between-__dirname-and-in-node-js/) *
+
+we'll be going over the differences between `__dirname` & `./`
+
+
+
+|`__dirname`       |`./`     | 
+| :------------- | :----------: | 
+| - returns the path of the folder where the current JavaScript file resides | - gives the current working directory   |
+|  - used to get the filename and directory name of the currently executing fil   | -only case when `./` gives the path of the currently executing file is when it is used with the require() |
 
   I've included links for some pages for some added clarity to reference. *
